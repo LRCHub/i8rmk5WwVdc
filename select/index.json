@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Workin' Hard",
+  "base_artist": "Fujii Kaze",
+  "createdAt": "2025-12-06T17:29:31.530793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Juicy J",
+      "has_synced": true,
+      "path": "select/01_Workin'_Hard_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Workin' Hard, Playin' Hard",
+      "artist": "Ted Nugent",
+      "has_synced": false,
+      "path": "select/02_Workin'_Hard,_Playin'_Hard_Ted_Nugent.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/03_Workin'_Hard_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Workin’ Hard",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/04_Workin’_Hard_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/05_Workin'_Hard_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Larry Fleet",
+      "has_synced": true,
+      "path": "select/06_Workin'_Hard_Larry_Fleet.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/07_Workin'_Hard_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Workin' Hard At Lovin' You",
+      "artist": "The Road Hammers",
+      "has_synced": true,
+      "path": "select/08_Workin'_Hard_At_Lovin'_You_The_Road_Hammers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fujii Kaze - Workin’ Hard（Official Video）",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/09_Fujii_Kaze_-_Workin’_Hard(Official_Video)_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Workin’ Hard",
+      "artist": "藤井風",
+      "has_synced": true,
+      "path": "select/10_Workin’_Hard_藤井風.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Workin' Hard, Playin' Hard",
+      "artist": "Ted Nugent",
+      "has_synced": false,
+      "path": "select/11_Workin'_Hard,_Playin'_Hard_Ted_Nugent.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/12_Workin'_Hard_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Workin' Hard",
+      "artist": "Fujii Kaze",
+      "has_synced": true,
+      "path": "select/13_Workin'_Hard_Fujii_Kaze.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Workin' Hard, Playin' Hard",
+      "artist": "Nugent, Ted",
+      "has_synced": false,
+      "path": "select/14_Workin'_Hard,_Playin'_Hard_Nugent,_Ted.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Workin' Hard",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_01_Workin'_Hard_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Workin' Hard",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_02_Workin'_Hard_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Workin' Hard",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_03_Workin'_Hard_藤井_風.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Workin' Hard (Fujii Kaze Stadium Live \"Feelin' Good\")",
+      "artist": "藤井 風",
+      "has_synced": false,
+      "path": "select/pl_04_Workin'_Hard_(Fujii_Kaze_Stadium_Live__Feelin'_Good_)_藤井_風.txt"
+    }
+  ]
+}
